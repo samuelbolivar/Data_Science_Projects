@@ -4,6 +4,7 @@ The Data Science project is where **I am** going to master everyting about:
 * Python
 * Statistics
 * Data Predicition
+* Make changes in GIT
 
 | Pencils  | Count    |
 |----------|----------|

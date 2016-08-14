@@ -7,6 +7,7 @@ This is the place I craft solutions on different projects applying all sort of d
 ## Project List
 ### Sentiment Analysis for Movie's Reviews
 Project Based on Kaggle Competition "Bag of Words Meets Bags of Popcorn" and presented at General Assembly Data Science course
+###### Contains full Python Notebook used and PDF with the presentation performed
 
 #### Contact Information
 Email: samuelbolivar at yahoo dot com

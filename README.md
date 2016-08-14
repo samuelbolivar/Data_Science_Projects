@@ -1,6 +1,6 @@
-# Data Science Project
+# Data Science Projects
 
-## SYD DAT 5 Lab 2 - Visualisation and Regression
+## What is in here?
 
 Make sure you have completed any labs that you might have missed or didn't finish.
 
